@@ -1,0 +1,20 @@
+@media(max-width: 640px ){
+    .card{
+        max-width: 311px;
+        background-color: rgb(89, 98, 128);
+        border-radius: 20px;
+    }
+    .card_image img{
+        border-radius: 20px;
+    }
+    .card_text h1{
+        margin: 15px 0;
+        color: hsl(218, 44%, 22%);
+        font-size: 25px;
+        color: hsl(220, 36%, 84%);
+    }
+    .card_text p{
+        color: hsl(218, 10%, 64%);
+        font-size: 15px;
+    }
+}

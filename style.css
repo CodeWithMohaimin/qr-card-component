@@ -15,27 +15,28 @@
     align-items: center;
     padding: 15px;
 }
-
 .card{
-    max-width: 311px;
+    max-width: 375px;
     background-color: #fff;
     padding: 15px;
-    border-radius: 20px;
+    border-radius: 15px;
 }
-.cardImage img{
+.card_image img{
     width: 100%;
-    border-radius: 20px;
+    border-radius: 15px;
 }
-.cardText{
+.card_text{
     padding: 15px;
     text-align: center;
 }
-.cardText h3{
+.card_text h1{
     font-weight: 700;
     margin: 15px 0;
     color: hsl(218, 44%, 22%);
+    font-size: 28px;
 }
-.cardText p{
+.card_text p{
     color: hsl(220, 15%, 55%);
-    font-size: 15px;
+    font-size: 20px;
+    transition: all .3s ease-in;
 }
