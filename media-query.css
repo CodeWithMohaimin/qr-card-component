@@ -10,11 +10,11 @@
     .card_text h1{
         margin: 15px 0;
         color: hsl(218, 44%, 22%);
-        font-size: 25px;
+        font-size: 1.2em;
         color: hsl(220, 36%, 84%);
     }
     .card_text p{
         color: hsl(218, 10%, 64%);
-        font-size: 15px;
+        font-size: 0.8125em;
     }
 }
