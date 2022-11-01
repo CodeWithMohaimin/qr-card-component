@@ -33,10 +33,10 @@
     font-weight: 700;
     margin: 15px 0;
     color: hsl(218, 44%, 22%);
-    font-size: 28px;
+    font-size: 1.2em;
 }
 .card_text p{
     color: hsl(220, 15%, 55%);
-    font-size: 20px;
+    font-size: 0.8125em;
     transition: all .3s ease-in;
 }
