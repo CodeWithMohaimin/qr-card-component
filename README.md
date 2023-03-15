@@ -2,9 +2,35 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+# My Project
 
-Thanks for checking out this front-end coding challenge.
+This is my awesome project that I built for [Frontend Mentor](https://www.frontendmentor.io/).
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- A responsive design that works well on different devices.
+- A custom CSS grid layout.
+- QR code generation using a third-party library.
+- User can enter custom text to generate QR code.
+- Copy to clipboard functionality.
+
+## Links
+
+- [Live Demo](https://codewithmohaimin.github.io/qr-card-component/)
+- [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+
+## Credits
+
+- Design by [Frontend Mentor](https://www.frontendmentor.io/).
+- QR code generation library: [QRCode.js](https://davidshimjs.github.io/qrcodejs/)
+- Icons from [FontAwesome](https://fontawesome.com/)
+
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
